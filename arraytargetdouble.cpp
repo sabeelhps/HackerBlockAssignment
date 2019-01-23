@@ -1,15 +1,6 @@
 #include<iostream>
 using namespace std;
 
-/*void bubble(int *p,int s){
-    for(int i=0;i<s-1;i++){
-        for(int j=0;j<s-1-i;j++){
-            if(*(p+j)>*(p+j+1))
-                swap(*(p+j),*(p+j+1));
-        }
-    }
-}*/
-
 int main(){
     
     int a[10000],i,j,n;
